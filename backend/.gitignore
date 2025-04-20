@@ -1,1 +1,14 @@
-.backend/Anaconda3-2024.10-1-MacOSX-arm64.sh
+# backend/.gitignore
+
+# Ignore trained model artifacts
+models/embedding_model.pkl
+models/classifier.pkl
+
+# Or simply ignore all pickles in the models folder
+models/*.pkl
+
+# Python caches & environments
+__pycache__/
+*.py[cod]
+venv/
+.env
