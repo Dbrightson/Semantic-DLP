@@ -1,4 +1,4 @@
-# Context-Aware DLP 🛡️
+# Context-Aware DLP 🔥
 
 <div align="center">
   <img src="frontend/public/logo.svg" alt="Context-Aware DLP Logo" width="150" />
