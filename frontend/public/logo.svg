@@ -1,0 +1,19 @@
+<svg width="360" height="180" viewBox="0 0 360 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="360" height="180" rx="24" fill="url(#grad)" />
+  <g filter="url(#f1)">
+    <path d="M90 40C60 40 35 65 35 95C35 118 53 138 75 142V155C75 159 78 164 83 164H97C102 164 105 159 105 155V142C127 138 145 118 145 95C145 65 120 40 90 40Z" fill="white"/>
+    <path d="M65 100C65 82 78 70 90 70C102 70 115 82 115 100C115 118 102 130 90 130C78 130 65 118 65 100Z" fill="#4A90E2"/>
+    <circle cx="90" cy="100" r="6" fill="white"/>
+  </g>
+  <text x="160" y="105" fill="white" font-family="Segoe UI, Roboto, sans-serif" font-size="32" font-weight="600">Semantix DLP</text>
+  <text x="160" y="135" fill="#93C5FD" font-family="Segoe UI, Roboto, sans-serif" font-size="16" font-weight="400">Context-Aware Data Loss Prevention</text>
+  <defs>
+    <filter id="f1" x="20" y="30" width="150" height="150" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="4" stdDeviation="4" flood-color="#00000022"/>
+    </filter>
+    <linearGradient id="grad" x1="0" y1="0" x2="360" y2="180" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#1E3A8A"/>
+    </linearGradient>
+  </defs>
+</svg>
